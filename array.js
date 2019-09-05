@@ -14,6 +14,7 @@ const e = [];
 console.log('e', e);
 console.log('e == []', e == false);
 console.log('e === []', e === false);
+console.log('e === []', e === false);
 
 const o = {
     a: 235,
