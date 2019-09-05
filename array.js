@@ -17,7 +17,7 @@ console.log('e === []', e === false);
 
 const o = {
     a: 235,
-    b: 'kass',
+    b: 'koer',
     c: {
         a: 35,
     },
