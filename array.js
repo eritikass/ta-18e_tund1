@@ -25,6 +25,7 @@ const o = {
 
 console.log('o', o);
 console.log('o.c', o.c);
-console.log('o.c', o['c']);
 
+console.log('o.c', o['c']);
+console.log('o.c', o['c']);
 o.a = 555555;
